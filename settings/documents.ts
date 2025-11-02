@@ -176,6 +176,10 @@ export const Documents: Paths[] = [
         title: "Combat",
         href: "#combat",
       },
+      {
+        title: "Fuel",
+        href: "#fuel",
+      },
     ]
   },
   {
